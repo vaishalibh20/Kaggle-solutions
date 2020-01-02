@@ -1,4 +1,4 @@
-# Kaggle-solutions
+# Kaggle-Projects
 
 I have used datasets from kaggle to analyze them.
 This folder contains following files:
