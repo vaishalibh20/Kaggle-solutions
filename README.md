@@ -11,9 +11,11 @@ This folder contains following files:
    
    a) File 1- Feature extraction: In this I extracted features from variables like cast, crew and genres. Example of one feature, extracted top 15 most common genres among movies and created dummy for each of this genre.
   
-   b) File 2- Data Exploration: After generating featurese, saw the relationship of these features with target variable through visualization.
+   b) File 2- Data Exploration: After generating features, saw the relationship of these features with target variable through visualization.
  
    c) File 3- Model Building and Prediction using Random Forest: In this, used Random forest with grid search to predict revenue.
   
    d) File 4- Model Building and Prediction using Support Vector Regression: In this, used SVR to predict the revenue.
+   
+4. Default of Credit Card Clients Dataset: Explored the dataset using matplotlib and seaborn libraries and then used different models  (random forest, KNN and SVC) to predict whether a clients will default or not. Also, because data is imbalanced, used SMOTE for oversampling minority class and used random forest. Also used nearmiss to undersample majority class and used random forest. In the end compared the results to find which one of the three perform better.
 
